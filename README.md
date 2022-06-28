@@ -1,7 +1,7 @@
 <h1>Api NodeJs</h1>
 
 <ul>
-  <li>Controllers de usuário (x)</li>
+  <li>Controllers de usuários (x)</li>
   <li>Sistema de rotas (x)</li>
 </ul>
 
